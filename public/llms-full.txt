@@ -2,13 +2,13 @@
 
 Muli Asido is a dual-focused creative brand built around two core offerings: live caricature drawing at events (weddings, corporate events, parties) and online art education for aspiring drawers who want to gain confidence. The brand has a warm, approachable personality with a clear structure — splitting audiences between event clients (parents, companies, producers) and art students. The website vision is a clean, focused Squarespace site with a smart two-path homepage that guides visitors immediately to their relevant journey, avoiding information overload.
 
-Source: https://-4cba764c.zappy5.app
+Source: https://example.com
 
 ---
 
 ## קריקטורות חיות לאירועים וקורס ציור אונליין — מולי אסידו
 
-URL: https://-4cba764c.zappy5.app
+URL: https://example.com
 Description: מחפשים קריקטוריסט לאירוע עסקי, בת מצווה או חתונה? או שאולי בא לכם ללמוד לצייר קריקטורות אונליין? מולי אסידו מזמין אתכם לבחור את המסלול שלכם ולהתחיל ליצור.
 
 קריקטורות חיות לאירועים וקורס ציור אונליין — מולי אסידו
@@ -457,7 +457,7 @@ Description: מחפשים קריקטוריסט לאירוע עסקי, בת מצ�
 
 ## החוויה שתכניס חיים לאירוע שלכם — מולי אסידו
 
-URL: https://-4cba764c.zappy5.app/caricatures-for-events
+URL: https://example.com/caricatures-for-events
 Description: קריקטורות חיות שמשדרגות כל אירוע עסקי, חתונה או בת מצווה. מולי אסידו מגיע לצייר את האורחים שלכם בקצב מסחרר ויוצר מזכרת אישית ומלאת קסם. הציצו בגלריה והזמינו עכשיו.
 
 החוויה שתכניס חיים לאירוע שלכם — מולי אסידו
@@ -906,7 +906,7 @@ Description: קריקטורות חיות שמשדרגות כל אירוע עסק
 
 ## תתחילו לצייר קריקטורות בביטחון מהבית — מולי אסידו
 
-URL: https://-4cba764c.zappy5.app/learn-drawing
+URL: https://example.com/learn-drawing
 Description: קורס ציור דיגיטלי למתחילים שרוצים לשלוט בקריקטורה. לימוד ציור אונליין בגובה העיניים, עם תוכן חינמי שמתניע את היצירתיות שלכם. זה הזמן להרים עיפרון ולהתחיל לצייר.
 
 תתחילו לצייר קריקטורות בביטחון מהבית — מולי אסידו
@@ -1317,7 +1317,7 @@ Description: קורס ציור דיגיטלי למתחילים שרוצים לש
 
 ## גלריית ציורים שתעיר לכם את ההשראה — מולי אסידו
 
-URL: https://-4cba764c.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: דפדפו בגלריית הציורים של מולי אסידו: קריקטורות חיות מאירועים, דיוקנאות מהירים ורגעים מצוירים. כל תמונה מספרת סיפור קטן של יצירתיות. בואו לראות מה אפשר ליצור ביחד.
 
 גלריית ציורים שתעיר לכם את ההשראה — מולי אסידו
@@ -1623,7 +1623,7 @@ Description: דפדפו בגלריית הציורים של מולי אסידו: 
 
 ## מאחורי הקווים: הכירו את היוצר — מולי אסידו
 
-URL: https://-4cba764c.zappy5.app/about
+URL: https://example.com/about
 Description: מולי אסידו הוא קריקטוריסט לאירועים ומורה לציור עם אהבה בלתי מתפשרת לקו המדויק. כאן תגלו את הסיפור, הפילוסופיה והאנרגיה שמאחורי כל ציור חי וכל שיעור אונליין.
 
 מאחורי הקווים: הכירו את היוצר — מולי אסידו
@@ -1971,7 +1971,7 @@ Description: מולי אסידו הוא קריקטוריסט לאירועים ו
 
 ## יוצרים ביחד? צרו קשר עוד היום — מולי אסידו
 
-URL: https://-4cba764c.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים להזמין קריקטורות חיות לאירוע הקרוב או להתחיל קורס ציור דיגיטלי? השאירו פרטים ומולי אסידו יחזור אליכם עם כל התשובות. בואו נתכנן את החוויה היצירתית הבאה שלכם.
 
 יוצרים ביחד? צרו קשר עוד היום — מולי אסידו
@@ -2289,7 +2289,7 @@ Description: רוצים להזמין קריקטורות חיות לאירוע ה
 
 ## מדיניות פרטיות
 
-URL: https://-4cba764c.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2554,7 +2554,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-4cba764c.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2828,7 +2828,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-4cba764c.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

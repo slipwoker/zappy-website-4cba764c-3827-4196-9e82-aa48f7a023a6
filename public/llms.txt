@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-4cba764c.zappy5.app
+https://example.com
 מחפשים קריקטוריסט לאירוע עסקי, בת מצווה או חתונה? או שאולי בא לכם ללמוד לצייר קריקטורות אונליין? מולי אסידו מזמין אתכם לבחור את המסלול שלכם ולהתחיל ליצור.
 
 ### קריקטורות לאירועים
-https://-4cba764c.zappy5.app/caricatures-for-events
+https://example.com/caricatures-for-events
 קריקטורות חיות שמשדרגות כל אירוע עסקי, חתונה או בת מצווה. מולי אסידו מגיע לצייר את האורחים שלכם בקצב מסחרר ויוצר מזכרת אישית ומלאת קסם. הציצו בגלריה והזמינו עכשיו.
 
 ### לימוד ציור
-https://-4cba764c.zappy5.app/learn-drawing
+https://example.com/learn-drawing
 קורס ציור דיגיטלי למתחילים שרוצים לשלוט בקריקטורה. לימוד ציור אונליין בגובה העיניים, עם תוכן חינמי שמתניע את היצירתיות שלכם. זה הזמן להרים עיפרון ולהתחיל לצייר.
 
 ### גלריה
-https://-4cba764c.zappy5.app/gallery
+https://example.com/gallery
 דפדפו בגלריית הציורים של מולי אסידו: קריקטורות חיות מאירועים, דיוקנאות מהירים ורגעים מצוירים. כל תמונה מספרת סיפור קטן של יצירתיות. בואו לראות מה אפשר ליצור ביחד.
 
 ### אודות
-https://-4cba764c.zappy5.app/about
+https://example.com/about
 מולי אסידו הוא קריקטוריסט לאירועים ומורה לציור עם אהבה בלתי מתפשרת לקו המדויק. כאן תגלו את הסיפור, הפילוסופיה והאנרגיה שמאחורי כל ציור חי וכל שיעור אונליין.
 
 ### צור קשר
-https://-4cba764c.zappy5.app/contact
+https://example.com/contact
 רוצים להזמין קריקטורות חיות לאירוע הקרוב או להתחיל קורס ציור דיגיטלי? השאירו פרטים ומולי אסידו יחזור אליכם עם כל התשובות. בואו נתכנן את החוויה היצירתית הבאה שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-4cba764c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-4cba764c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-4cba764c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-4cba764c.zappy5.app/contact
-- Endpoint: https://-4cba764c.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Art & Creative Education
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-4cba764c.zappy5.app/sitemap.xml
-- Robots: https://-4cba764c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-4cba764c.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
